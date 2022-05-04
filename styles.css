@@ -24,7 +24,9 @@ h1 {
 p{
   line-height: 2;
 }
-
+.intro{
+  width: 50%;
+}
 hr {
   border-style: none;
   border-top-style: dotted;
