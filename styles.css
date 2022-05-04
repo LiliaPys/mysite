@@ -24,9 +24,7 @@ h1 {
 p{
   line-height: 2;
 }
-.intro{
-  width: 50%;
-}
+
 hr {
   border-style: none;
   border-top-style: dotted;
@@ -39,7 +37,7 @@ hr {
 }
 
 .intro{
-  width: 30%;
+  width: 50%;
   margin: auto;
   margin-bottom: 60px;
 }
